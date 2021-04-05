@@ -20,6 +20,7 @@ export default function AddPost(props){
       //TODO Show Modal when a new post is added
       props.updateMyPosts();
     }else{
+      console.log("Error añadiendo posts")
       //TODO Show Modal when an error adding a new post occurs
     }
   }
