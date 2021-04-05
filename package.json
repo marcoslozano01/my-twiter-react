@@ -44,6 +44,8 @@
       "last 1 safari version"
     ]
   },
- 
-  "proxy": "http://localhost:5000/"
+  "homepage": "https://marcoslozano01.github.io/my-twiter-react/",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
