@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-twiter-react/static/css/main.6fe6db3e.chunk.css",
-    "main.js": "/my-twiter-react/static/js/main.7399a349.chunk.js",
-    "main.js.map": "/my-twiter-react/static/js/main.7399a349.chunk.js.map",
+    "main.js": "/my-twiter-react/static/js/main.8f50e96b.chunk.js",
+    "main.js.map": "/my-twiter-react/static/js/main.8f50e96b.chunk.js.map",
     "runtime-main.js": "/my-twiter-react/static/js/runtime-main.caba7bbe.js",
     "runtime-main.js.map": "/my-twiter-react/static/js/runtime-main.caba7bbe.js.map",
     "static/css/2.ef9168ec.chunk.css": "/my-twiter-react/static/css/2.ef9168ec.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.d5c71eac.chunk.js",
     "static/css/main.6fe6db3e.chunk.css",
-    "static/js/main.7399a349.chunk.js"
+    "static/js/main.8f50e96b.chunk.js"
   ]
 }
